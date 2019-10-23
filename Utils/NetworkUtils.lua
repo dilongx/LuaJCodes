@@ -24,6 +24,10 @@ limitations under the License.
 
 
 local NetworkUtils = {}
+local NETWORK_NOT = "当前设备无网！";
+local NETWORK_WIFI = "当前为WIFI网络！";
+local NETWORK_MOBILE = "当前为移动数据网络！";
+
 
 --获取网络状态
 function NetworkUtils:getNetworkState()
@@ -48,11 +52,11 @@ function NetworkUtils:getNetworkType()
   local state = self:getNetworkState()
   switch state
    case -1
-    return "NOT"
+    return NETWORK_NOT
    case 1
-    return "WIFI"
+    return NETWORK_WIFI
    case 2
-    return "MOBILE"
+    return NETWORK_MOBILE
   end
 end
 
