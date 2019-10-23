@@ -5,7 +5,7 @@ Version: 1.0.0
 Date: 2019-10-24
 Email: 1753520469@qq.com
 Github: https://github.com/smalldi/LuaJavaUtils/Utils/NetworkUtils.lua
-Description: 纯LuaJava代码编写的高度自定义对话框
+Description: 网络处理工具模块
 
 Copyright (C) 2019. SmallDi. All Rights Reserved.
 
