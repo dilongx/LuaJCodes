@@ -4,7 +4,7 @@
 
 ## 本项目分为四大类
 
-[Utils](https://github.com/smalldi/LuaJavaUtils/tree/master/Utils) 实用工具模块
+[Utils](./Utils) 实用工具模块
 
 [Views](https://github.com/smalldi/LuaJavaUtils/tree/master/Views) 封装的视图模块
 
