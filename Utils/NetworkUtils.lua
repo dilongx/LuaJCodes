@@ -4,7 +4,7 @@ Author: SmallDi
 Version: 1.0.0
 Date: 2019-10-24
 Email: 1753520469@qq.com
-Github: https://github.com/smalldi/LuaJavaUtils/Utils/NetworkUtils.lua
+Github: https://github.com/smalldi/LuaJCodes/blob/master/Utils/NetworkUtils.lua
 Description: 网络处理工具模块
 
 Copyright (C) 2019. SmallDi. All Rights Reserved.
